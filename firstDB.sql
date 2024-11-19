@@ -1,4 +1,3 @@
-drop database db;
 create database db;
 use db;
 create table students(
