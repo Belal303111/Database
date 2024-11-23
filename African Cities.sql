@@ -1,0 +1,6 @@
+SELECT
+    CITY.NAME
+FROM CITY
+JOIN COUNTRY
+ON CITY.COUNTRYCODE = COUNTRY.CODE -- (ضرورية لمعرفة كيفية ارتباط العلاقات)
+WHERE COUNTRY.CONTINENT = 'Africa';
