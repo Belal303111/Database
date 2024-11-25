@@ -22,4 +22,4 @@ From
 -- left join basket_b
 -- ON fruit_a = fruit_b --necessary (clear how the tables are join) ;
 
---we use (is) with Null
+-- we use (is) with Null

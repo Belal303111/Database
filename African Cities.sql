@@ -1,5 +1,5 @@
 SELECT
-    CITY.NAME
+     CITY.NAME
 FROM CITY
 JOIN COUNTRY
 ON CITY.COUNTRYCODE = COUNTRY.CODE -- (ضرورية لمعرفة كيفية ارتباط العلاقات)
