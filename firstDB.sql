@@ -1,4 +1,4 @@
-create database db;
+create database db; 
 use db;
 create table students(
 id int ,
